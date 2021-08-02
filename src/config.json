@@ -1,0 +1,152 @@
+{
+  "Sidebar": {
+    "ProfileInfo": {
+      "Name": "Everly Precia Suresh",
+      "Image": "https://www.imagediamond.com/blog/wp-content/uploads/2020/06/cartoon-girl-limages-2.jpg",
+      "Role": "Web Developer"
+    },
+    "ContactInfo": [
+      {
+        "Icon": "globe",
+        "text": "everlyprecia.medium.com",
+        "href": "https://everlyprecia.medium.com/"
+      },
+      {
+        "Icon": "linkedin",
+        "text": "Everly Precia Suresh",
+        "href": "https://www.linkedin.com/in/everly-precia-suresh-196bba1b7/"
+      },
+      {
+        "Icon": "github",
+        "text": "@everly-gif",
+        "href": "https://github.com/everly-gif"
+      },
+      {
+        "Icon": "map-marker",
+        "text": "Chennai, India",
+        "href": "https://www.google.com/maps/place/Chennai,+Tamil+Nadu/@13.0474878,80.0689252,11z/data=!3m1!4b1!4m5!3m4!1s0x3a5265ea4f7d3361:0x6e61a70b6863d433!8m2!3d13.0826802!4d80.2707184"
+      }
+    ],
+    "Education": [
+      {
+        "Years": "2010 - 2019",
+        "Degree": "High School",
+        "Univ": " The PSBB Millennium School"
+      },
+      {
+        "Years": "2019 - 2023",
+        "Degree": "BTech CSE",
+        "Univ": "SRM University"
+      }
+    ],
+    "Language": [
+      {
+        "Name": "English",
+        "proficiency": 95
+      },
+      {
+        "Name": "Tamil",
+        "proficiency": 85
+      },
+      {
+        "Name": "German",
+        "proficiency": 30
+      },
+      {
+        "Name": "Hindi",
+        "proficiency": 70
+      }
+    ],
+    "Accomplishments": [
+      {
+        "title": "Education Outreach Program ML",
+        "role": "Scholar",
+        "Org": "Girlscript Foundation"
+      },
+      {
+        "title": "Tech Trail Workshop",
+        "role": "Speaker",
+        "Org": "Salesforce Student Group SRM"
+      }
+    ]
+  },
+
+  "Main": {
+    "Bio": {
+      "Para1": "A 3rd Year CSE Undergrad With Keen Interest in Web Development and Opensource. A dedicated Individual, passionate in working with technology and leveraging them to it's fullest potentials.",
+      "Para2": "Looking for roles under the web development domain in organizations where I can apply my skills for the organization's benefit as well as have a platform to explore and learn."
+    },
+    "Experience": [
+      {
+        "Year": "2021- Present",
+        "Company": "SkyGoal INC",
+        "Position": "Web Development Intern",
+        "desc": "Responsibilties include writing neat code,maintaining documentation, integrating backend services and cooperating with web designers to match the visual design intent."
+      }
+    ],
+    "Skills": [
+      {
+        "Skill": "HTML5",
+        "Proficiency": 80
+      },
+      {
+        "Skill": "CSS3",
+        "Proficiency": 70
+      },
+      {
+        "Skill": "Javascript",
+        "Proficiency": 60
+      },
+      {
+        "Skill": "Bootstrap",
+        "Proficiency": 70
+      },
+      {
+        "Skill": "Jquery and AJAX",
+        "Proficiency": 60
+      },
+      {
+        "Skill": "PHP",
+        "Proficiency": 70
+      },
+      {
+        "Skill": "MYSQL",
+        "Proficiency": 70
+      }
+    ],
+    "Projects": [
+      {
+        "Year": "2020- 2021",
+        "Name": "CAR E RENTAL",
+        "desc": "An online car renting system which allows you to rent cars at affordable costs. Worked on  Login/registration system, User profile set up, Update profile set up, Payment integration, Product landing page, Search bar, Double booking and race conditions, Ui Design and Front end.",
+
+        "link": "https://carerental.000webhostapp.com/"
+      },
+      {
+        "Year": "2021",
+        "Name": "CovidPort (Hackathon Project)",
+        "desc": "A one stop portal to connect individuals to be more self-aware, educated and supportive of one another at such trying times.",
+        "link": "https://github.com/everly-gif/covidport"
+      }
+    ],
+
+    "Interests": [
+      {
+        "Icon": "book",
+        "text": "Reading"
+      },
+      {
+        "Icon": "pencil",
+        "text": "Journaling"
+      },
+      {
+        "Icon": "birthday-cake",
+        "text": "Baking"
+      },
+      {
+        "Icon": "bicycle",
+        "text": "Cycling"
+      }
+    ]
+  }
+}
